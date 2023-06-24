@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506473052902",
+    "project_id": "rdit-fire",
+    "storage_bucket": "rdit-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506473052902:android:15e744eda78cb7056b5927",
+        "android_client_info": {
+          "package_name": "com.example.rdit_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506473052902-dlvo0i99romghknur1ism44tar0c902a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-CF_UrTIIfn1YQ-1VnLigg-dE29f7BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506473052902-dlvo0i99romghknur1ism44tar0c902a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
